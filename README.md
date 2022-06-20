@@ -7,7 +7,8 @@ Welcome to the WordPress customization tutorial, Here you will learn how to crea
 ## ⏳ Prerequisite
 You need following skills to start with
  - [👉 WordPress 5 Crash Course for Absolute Beginners Bangla](https://youtu.be/FY_XZ9iAWEo)
- - [🔥 Elementor Crash Course | WordPress](https://youtu.be/hzP_HKGGkfU)
+ - [🔥 Elementor Crash Course | WordPress](https://youtu.be/hzP_HKGGkfU) 
+ - [🎨 Photoshop Crash Course ](https://www.youtube.com/watch?v=Tb10Mo-w3wo)
 
 
 

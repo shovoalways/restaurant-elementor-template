@@ -1,8 +1,8 @@
 # Resturent Elementor Template
-I made this resturent template for wordpress website with elementor free version. I created this for youtube video. If you are interested, you can check out youtube video too. 
+I made this restaurant template for the WordPress website with the elementor-free version. I created this for a youtube video. If you are interested, you can check out the youtube video too. 
 
 ## 📝 Description
-Welcome to the WordPress customization tutorial, Here you will learn how to create a website with Elementor (WordPress Plugin). Its a drag and drop page builder. With elementor you can create awesome website. 
+Welcome to the WordPress customization tutorial, Here you will learn how to create a website with Elementor (WordPress Plugin). It's a drag-and-drop page builder. With elementor, you can create an excellent website.
 
 ## ⏳ Prerequisite
 You need following skills to start with
@@ -17,7 +17,7 @@ You need following skills to start with
 
 
 ## Video URL 👇
- - [Design A Responsive Website On Elementor | Modern Web Design with WordPress](#)
+ - [Design A Responsive Website On Elementor | Modern Web Design with WordPress](https://youtu.be/jfd9SzqetvY)
 
 
 ## 🥰 Follow me
